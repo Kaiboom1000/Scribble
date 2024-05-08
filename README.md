@@ -23,5 +23,5 @@ It has a plethora of options for colors, including all CSS colors. It supports c
 
 Beta Tester @ElliotHooper collaborated with us to create this artwork, all using only Scribble:
 
-<a href="https://ibb.co/1zFzH9V"><img src="https://i.ibb.co/1zFzH9V/Screenshot-2024-05-08-at-8-28-13-PM.png" alt="Screenshot-2024-05-08-at-8-28-13-PM" border="0"></a>
+<a href="https://ibb.co/1zFzH9V"><img src="https://i.ibb.co/1zFzH9V/Screenshot-2024-05-08-at-8-28-13-PM.png" alt="Screenshot-2024-05-08-at-8-28-13-PM" border="0" style="width:1000px; height:1000px"></a>
 
