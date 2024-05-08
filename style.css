@@ -1,0 +1,40 @@
+
+  body{
+    cursor: pointer;
+    font-family: "VT323", monospace;
+    font-weight: 800;
+    font-style: normal;
+    font-size:30px;
+    background-color: #7bbcb6;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: #5ab2a9; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    
+      box-shadow: black 10px 10px 10px;
+      border-radius:50px;
+      border-color:palegoldenrod;
+  }
+  
+
+  
