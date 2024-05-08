@@ -3,7 +3,7 @@ Scribble is an abstract art platform where you create paintings using lines. You
 
 This website is currently under beta testing, applications are open:
 
-<a> <button href="https://forms.gle/xvvZo7xTAYn6jwvRA"> Apply Here </button> </a>
+<a  href="https://forms.gle/xvvZo7xTAYn6jwvRA"> <button> Apply Here </button> </a>
 
 Positions (Volunteer)
 
