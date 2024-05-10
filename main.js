@@ -63,7 +63,7 @@ function my_touchstart(e) {
 lastPosX = e.touches[0].clientX - canvas.offsetLeft
 lastPosY = e.touches[0].clientY - canvas.offsetTop
 }
- canvas.addEventListener("touchstart", my_touchmove)
+ canvas.addEventListener("touchmove", my_touchmove)
 
 function my_touchmove(e) {
 mouseX = e.touches[0].clientX - canvas.offsetLeft
