@@ -1,6 +1,8 @@
 # Scribble
 <a href="https://Kaiboom1000.github.io/Scribble"> <button> Scribble </button> </a>  is an abstract art platform where you create paintings using lines. You can use the colour and line width option to customise it as per your taste.
 
+Update 2.0: Added touchscreen functionality for smartphone and tablet users.
+
 This website is currently under BETA testing, early bird applications are open:
 
 <a  href="https://forms.gle/xvvZo7xTAYn6jwvRA"> <button> Apply Here </button> </a>
