@@ -46,3 +46,34 @@ function my_mousemove(e) {
    lastPosX = mouseX;
    lastPosY = mouseY;
 }
+
+var width = screen.height
+new_width = screen.width - 70
+new_height = screen.height - 300
+
+if (width < 992) {
+   document.getElementByID("myCanvas").height = new_height
+   document.getElementByID("myCanvas").width = new_width
+   document.body.style.overflow = "hidden"
+}
+
+canvas.addEventListener("touchstart", my_touchstart)
+
+function my_touchstart(e) {
+lastPosX = e.touches[0].clientX - canvas.offsetLeft
+lastPosY = e.touches[0].clientY - canvas.offsetTop
+}
+ canvas.addEventListener("touchstart", my_touchmove)
+
+function my_touchmove(e) {
+mouseX = e.touches[0].clientX - canvas.offsetLeft
+mouseY = e.touches[0].clientY - canvas.offsetTop
+
+   ctx.beginPath();
+    ctx.strokeStyle = color;
+    ctx.lineWidth = widthOfLine;
+
+    ctx.moveTo(lastPosX, lastPosY);
+    ctx.lineTo(mouseX, mouseY);
+    ctx.stroke();
+}
