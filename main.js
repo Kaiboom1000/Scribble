@@ -47,7 +47,7 @@ function my_mousemove(e) {
    lastPosY = mouseY;
 }
 
-var width = screen.height
+var width = screen.width
 new_width = screen.width - 70
 new_height = screen.height - 300
 
